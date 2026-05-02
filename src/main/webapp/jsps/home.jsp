@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Arun technologies</h1>
+<h1 align="center">Welcome to ARG tech</h1>
 <h1 align="center"> Good Training center for DevOps with AWS and also for Teaching Real Time scnerios</h1>
 <hr>
 <br>
