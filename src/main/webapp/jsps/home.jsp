@@ -5,12 +5,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Arun Technologies- Home Page</title>
-<link href="images/ORANIUM_LOGO.png" rel="icon">
+<link href="images/download.jpeg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome </h1>
-<h1 align="center"> Good Training center for DevOps with AWS and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Arun technologies</h1>
+<h1 align="center"> Good Training center for DevOps with AWS and also for Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
