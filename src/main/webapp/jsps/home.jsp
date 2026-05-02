@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
 		
 		<br>
-		<a href="mailto:Dummyemail@gmail.com">Mail to </a>
+		<a href="mailto:argtech@gmail.com">Mail to </a>
 	</span>
 </div>
 <hr>
@@ -44,7 +44,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center> Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://tech.com/">Chennai</a> </small></p>
+<p align=center><small>Copyrights 2026 by <a href="http://argtech.com/">Chennai</a> </small></p>
 
 </body>
 </html>
